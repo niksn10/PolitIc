@@ -8,7 +8,7 @@ import os
 from transformers import pipeline  # Импортируем pipeline для использования модели нейросети
 
 # Ваш API ключ для Telegram
-TELEGRAM_BOT_TOKEN = '6618460537:AAFNc6-KewtnwuH_9KktxcvD7fVZRIjh4FE'
+TELEGRAM_BOT_TOKEN = '7467973815:AAFxhDBb6kUs-vOeM3zm3uabjxCWSd1x6KE'
 
 # Инициализация Telegram бота
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
